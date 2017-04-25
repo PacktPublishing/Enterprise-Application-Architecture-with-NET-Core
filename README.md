@@ -35,7 +35,9 @@ Chapters 1, 4, 5, 8, and 9 does not have any code files.
 ## Related Products
 * [C# 7 and .NET Core: Modern Cross-Platform Development - Second Edition](https://www.packtpub.com/application-development/c-7-and-net-core-modern-cross-platform-development-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787129559)
 
-* [Mastering Microservices with Java – Part One: Core Concepts and Deployment [Video]](https://www.packtpub.com/application-development/mastering-microservices-java-–-part-one-core-concepts-and-deployment-video?utm_source=github&utm_medium=repository&utm_campaign=9781787284364)
+* [Learning ASP.NET Core MVC Programming](https://www.packtpub.com/application-development/learning-aspnet-core-mvc-programming?utm_source=github&utm_medium=repository&utm_campaign=9781786463838)
+
+* [ASP.NET Core Essentials](https://www.packtpub.com/web-development/aspnet-core-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781785889158)
 
 
 ### Suggestions and Feedback
